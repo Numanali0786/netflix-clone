@@ -1,0 +1,18 @@
+Project Console: https://console.firebase.google.com/project/netflix-clone-9cbb6/overview
+Hosting URL: https://netflix-clone-9cbb6.web.app
+
+
+
+echo "# netflix-clone" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Numanali0786/netflix-clone.git
+git push -u origin main
+
+
+
+git remote add origin https://github.com/Numanali0786/netflix-clone.git
+git branch -M main
+git push -u origin main
